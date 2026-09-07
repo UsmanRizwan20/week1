@@ -1,4 +1,4 @@
-# Capstone Report — Refresh / Content Opportunity Scoring
+# Capstone Report  Refresh / Content Opportunity Scoring
 
 - **Author:** Muhammad Usman Rizwan
 - **Lane:** Refresh / Content Opportunity Scoring
@@ -110,16 +110,4 @@ comparison chart to `work/outputs/figures/model_vs_baseline.png` (committed).
 
 ## 9. Acknowledgments & data credit
 
-One short section at the bottom of the deployed paper: "Built on the FlyRank ML Internship
-dataset" **linking to https://flyrank.ai**. Crediting your data source is standard research
-practice — and it's on the capstone's required-section list, so a paper without it isn't done.
-
----
-
-> **Claims checklist before submitting:** observed / measured / directional / decision-support
-> **Metrics vs. base rate:** report your task's base rate (majority-class %) next to any
-> precision@K or accuracy — a high score can just be a high base rate. AUC / lift over
-> baseline are the honest discrimination numbers.
-> language everywhere · no causal claims without an experiment or causal design · no
-> "predicted Google's algorithm" · no client-identifying details · numbers in this report
-> match a fresh re-run.
+Built on the FlyRank ML Internship dataset — [flyrank.ai](https://flyrank.ai)
